@@ -2,9 +2,9 @@
   "name" : "GitHub Actions",
   "type" : "github",
   "url" : "https://Kiriago-san.github.io/wdio-allure",
-  "buildOrder" : 35,
-  "buildName" : "GitHub Actions Run #1015337421",
-  "buildUrl" : "https://github.com/Kiriago-san/wdio-allure/actions/runs/1015337421",
+  "buildOrder" : 36,
+  "buildName" : "GitHub Actions Run #1015371172",
+  "buildUrl" : "https://github.com/Kiriago-san/wdio-allure/actions/runs/1015371172",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/35/"
+  "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/36/"
 } ]

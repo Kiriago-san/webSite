@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f87a4da473b7afe8",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/35//#testresult/f87a4da473b7afe8",
+      "uid" : "afdfe2ec36fedd1b",
+      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/35//#testresult/afdfe2ec36fedd1b",
       "status" : "passed",
       "time" : {
-        "start" : 1625837766448,
-        "stop" : 1625837768461,
-        "duration" : 2013
+        "start" : 1625838078011,
+        "stop" : 1625838078768,
+        "duration" : 757
       }
     } ]
   }

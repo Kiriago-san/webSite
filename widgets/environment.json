@@ -1,1 +1,4 @@
-[ ]
+[ {
+  "values" : [ "https://Kiriago-san.github.io/wdio-allure" ],
+  "name" : "URL"
+} ]

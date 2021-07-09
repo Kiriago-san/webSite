@@ -1,1 +1,10 @@
-[ ]
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Kiriago-san.github.io/wdio-allure",
+  "buildOrder" : 34,
+  "buildName" : "GitHub Actions Run #1015308697",
+  "buildUrl" : "https://github.com/Kiriago-san/wdio-allure/actions/runs/1015308697",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/34/"
+} ]

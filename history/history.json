@@ -1,20 +1,21 @@
 {
   "6836497e7ea9a11b2c0a711c298a65a7" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5888aa5b643c6036",
-      "status" : "passed",
+      "uid" : "9d0f8235418a01d0",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`#flash`) to have text containing\n                \n                - Expected  - 1\n                + Received  + 2\n                \n                - You logged into a secure area! \n                + You logged into a secure area!\n                + ×",
       "time" : {
-        "start" : 1626081529292,
-        "stop" : 1626081529968,
-        "duration" : 676
+        "start" : 1626081618019,
+        "stop" : 1626081629670,
+        "duration" : 11651
       }
     } ]
   }

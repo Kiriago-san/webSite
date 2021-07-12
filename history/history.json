@@ -1,16 +1,26 @@
 {
   "6836497e7ea9a11b2c0a711c298a65a7" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 4,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
-      "uid" : "242770ad142df3c7",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/41//#testresult/242770ad142df3c7",
+      "uid" : "a15dded4063f7ca0",
+      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/38//#testresult/a15dded4063f7ca0",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`#flash`) to have text containing\n                \n                - Expected  - 1\n                + Received  + 2\n                \n                - You logged into a secure area! \n                + You logged into a secure area!\n                + ×",
+      "time" : {
+        "start" : 1626073170767,
+        "stop" : 1626073181592,
+        "duration" : 10825
+      }
+    }, {
+      "uid" : "682861abc331c913",
+      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/41//#testresult/682861abc331c913",
       "status" : "passed",
       "time" : {
         "start" : 1626073053526,

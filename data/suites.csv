@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Jul 12 06:24:15 GMT 2021","Mon Jul 12 06:24:27 GMT 2021","12613","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""
+"failed","Mon Jul 12 06:33:46 GMT 2021","Mon Jul 12 06:33:59 GMT 2021","12702","","My Login application","","My Login application","should login with valid credentials","should login with valid credentials",""

@@ -4,6 +4,11 @@
   "reportName" : "Allure Report with history",
   "data" : { }
 }, {
+  "buildOrder" : 41,
+  "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/41/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 40,
   "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/40/",
   "reportName" : "Allure Report with history",

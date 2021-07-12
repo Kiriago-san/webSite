@@ -2,13 +2,13 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "should login with valid credentials",
-    "uid" : "ff9da0a30023a0e",
+    "uid" : "13690e919e0bc04f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1626072642140,
-      "stop" : 1626072642770,
-      "duration" : 630
+      "start" : 1626072899947,
+      "stop" : 1626072903386,
+      "duration" : 3439
     },
     "flaky" : false,
     "newFailed" : false,

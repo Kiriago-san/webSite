@@ -9,14 +9,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7c17549dd0b2fbcd",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/36//#testresult/7c17549dd0b2fbcd",
+      "uid" : "3984f7e0dc7df107",
+      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/37//#testresult/3984f7e0dc7df107",
       "status" : "failed",
       "statusDetails" : "Expect $(`#flash`) to have text containing\n                \n                - Expected  - 1\n                + Received  + 2\n                \n                - You logged into a secure area! \n                + You logged into a secure area!\n                + ×",
       "time" : {
-        "start" : 1625838517346,
-        "stop" : 1625838528184,
-        "duration" : 10838
+        "start" : 1626071055272,
+        "stop" : 1626071067885,
+        "duration" : 12613
       }
     } ]
   }

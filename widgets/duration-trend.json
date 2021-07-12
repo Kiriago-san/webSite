@@ -1,8 +1,8 @@
 [ {
-  "buildOrder" : 36,
-  "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/36/",
+  "buildOrder" : 37,
+  "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/37/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 10838
+    "duration" : 12613
   }
 } ]

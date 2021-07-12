@@ -1,58 +1,21 @@
 {
   "6836497e7ea9a11b2c0a711c298a65a7" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 5
+      "total" : 1
     },
     "items" : [ {
-      "uid" : "a15dded4063f7ca0",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/38//#testresult/a15dded4063f7ca0",
-      "status" : "failed",
-      "statusDetails" : "Expect $(`#flash`) to have text containing\n                \n                - Expected  - 1\n                + Received  + 2\n                \n                - You logged into a secure area! \n                + You logged into a secure area!\n                + ×",
-      "time" : {
-        "start" : 1626073170767,
-        "stop" : 1626073181592,
-        "duration" : 10825
-      }
-    }, {
-      "uid" : "682861abc331c913",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/41//#testresult/682861abc331c913",
+      "uid" : "d6aa72932ba5cb4a",
+      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/41//#testresult/d6aa72932ba5cb4a",
       "status" : "passed",
       "time" : {
-        "start" : 1626073053526,
-        "stop" : 1626073054184,
-        "duration" : 658
-      }
-    }, {
-      "uid" : "26070c13dc63771b",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/41//#testresult/26070c13dc63771b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626072899947,
-        "stop" : 1626072903386,
-        "duration" : 3439
-      }
-    }, {
-      "uid" : "ff9da0a30023a0e",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/40//#testresult/ff9da0a30023a0e",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626072642140,
-        "stop" : 1626072642770,
-        "duration" : 630
-      }
-    }, {
-      "uid" : "4bf35ad9e22efe12",
-      "reportUrl" : "https://Kiriago-san.github.io/wdio-allure/40//#testresult/4bf35ad9e22efe12",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626072391665,
-        "stop" : 1626072394026,
-        "duration" : 2361
+        "start" : 1626073313367,
+        "stop" : 1626073314643,
+        "duration" : 1276
       }
     } ]
   }

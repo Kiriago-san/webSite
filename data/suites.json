@@ -4,13 +4,13 @@
     "name" : "My Login application",
     "children" : [ {
       "name" : "should login with valid credentials",
-      "uid" : "58360761f8096ed6",
+      "uid" : "47b715e54018f809",
       "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
       "status" : "passed",
       "time" : {
-        "start" : 1626103098929,
-        "stop" : 1626103101630,
-        "duration" : 2701
+        "start" : 1626104824926,
+        "stop" : 1626104826284,
+        "duration" : 1358
       },
       "flaky" : false,
       "newFailed" : false,

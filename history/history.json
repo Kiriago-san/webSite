@@ -1,77 +1,20 @@
 {
   "6836497e7ea9a11b2c0a711c298a65a7" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 16,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 17
+      "total" : 10
     },
     "items" : [ {
-      "uid" : "58360761f8096ed6",
+      "uid" : "47b715e54018f809",
       "status" : "passed",
       "time" : {
-        "start" : 1626103098929,
-        "stop" : 1626103101630,
-        "duration" : 2701
-      }
-    }, {
-      "uid" : "a39fd62d649c331d",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
-      "time" : {
-        "start" : 1626095162523,
-        "stop" : 1626095164089,
-        "duration" : 1566
-      }
-    }, {
-      "uid" : "4dac50e3f2ff2130",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626093670864,
-        "stop" : 1626093672760,
-        "duration" : 1896
-      }
-    }, {
-      "uid" : "60201449513ae26d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626093421493,
-        "stop" : 1626093423919,
-        "duration" : 2426
-      }
-    }, {
-      "uid" : "e4a67cede6e92f91",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626093029298,
-        "stop" : 1626093031137,
-        "duration" : 1839
-      }
-    }, {
-      "uid" : "b4116d55dad1ad2d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626092179974,
-        "stop" : 1626092182233,
-        "duration" : 2259
-      }
-    }, {
-      "uid" : "d1d781e67632eac0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626092016034,
-        "stop" : 1626092017684,
-        "duration" : 1650
-      }
-    }, {
-      "uid" : "7ab0271165cb9e7a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626085214530,
-        "stop" : 1626085215250,
-        "duration" : 720
+        "start" : 1626104824926,
+        "stop" : 1626104826284,
+        "duration" : 1358
       }
     }, {
       "uid" : "52969f03f48141c5",

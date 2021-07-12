@@ -1,10 +1,10 @@
 [ {
-  "uid" : "dbbac037e4221255",
+  "uid" : "92f246460d7ac998",
   "name" : "should login with valid credentials",
   "time" : {
-    "start" : 1626079522504,
-    "stop" : 1626079523273,
-    "duration" : 769
+    "start" : 1626079760428,
+    "stop" : 1626079762134,
+    "duration" : 1706
   },
   "status" : "passed",
   "severity" : "normal"

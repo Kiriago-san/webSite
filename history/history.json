@@ -1,14 +1,23 @@
 {
   "6836497e7ea9a11b2c0a711c298a65a7" : {
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 15,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "a39fd62d649c331d",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
+      "time" : {
+        "start" : 1626095162523,
+        "stop" : 1626095164089,
+        "duration" : 1566
+      }
+    }, {
       "uid" : "4dac50e3f2ff2130",
       "status" : "passed",
       "time" : {
@@ -122,15 +131,6 @@
       }
     }, {
       "uid" : "e6dbd4b494b54d2e",
-      "status" : "passed",
-      "time" : {
-        "start" : 1626083335731,
-        "stop" : 1626083337366,
-        "duration" : 1635
-      }
-    } ]
-  }
-}54d2e",
       "status" : "passed",
       "time" : {
         "start" : 1626083335731,

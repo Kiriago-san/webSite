@@ -4,11 +4,19 @@
       "failed" : 1,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 16
+      "total" : 17
     },
     "items" : [ {
+      "uid" : "58360761f8096ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626103098929,
+        "stop" : 1626103101630,
+        "duration" : 2701
+      }
+    }, {
       "uid" : "a39fd62d649c331d",
       "status" : "failed",
       "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",

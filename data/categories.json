@@ -1,26 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false",
-      "children" : [ {
-        "name" : "should login with valid credentials",
-        "uid" : "aadc6511c43c853c",
-        "parentUid" : "7d22550bcc2853ce14c87084cc359937",
-        "status" : "failed",
-        "time" : {
-          "start" : 1626095162523,
-          "stop" : 1626095164089,
-          "duration" : 1566
-        },
-        "flaky" : false,
-        "newFailed" : true,
-        "parameters" : [ "chrome-91.0.4472.114" ]
-      } ],
-      "uid" : "7d22550bcc2853ce14c87084cc359937"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }
